@@ -13,5 +13,10 @@ public class AwsTestController {
 		return "WELCOME TO AWS COULD FOR TESTING IT IS A NEW FOR AWS CLOULD...";
 		
 	}
+	@GetMapping("/welcomenew")
+	public String awsWelcomenewTest() {
+		return "HI ALL EVERY ONE...";
+		
+	}
 
 }
