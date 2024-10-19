@@ -15,7 +15,7 @@ public class AwsTestController {
 	}
 	@GetMapping("/welcomenew")
 	public String awsWelcomenewTest() {
-		return "HI ALL EVERY ONE...";
+		return "HI ALL EVERY ONE...jjjjj";
 		
 	}
 
