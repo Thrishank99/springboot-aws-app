@@ -4,8 +4,8 @@ spring:
   datasource:
    #driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    url: jdbc:mysql://localhost:3306/awstest
-    password: root
+    url: jdbc:mysql://database-1.cxwqmuy08vwx.ap-south-1.rds.amazonaws.com:3306/awstest
+    password: mysqlroot
   jpa:
     hibernate:
       ddl-auto: update
