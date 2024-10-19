@@ -13,9 +13,9 @@ public class AwsTestController {
 		return "WELCOME TO AWS COULD FOR TESTING IT IS A NEW FOR AWS CLOULD...";
 		
 	}
-	@GetMapping("/test")
+	@GetMapping("/testnew")
 	public String awsWelcomenewTest() {
-		return "HI EVERY ONE PLASE WELCOME TO ASW FAMILY...";
+		return "HI EVERY ONE PLASE WELCOME TO AWS FAMILY...I HAVE CHANGED RECENTLY...";
 		
 	}
 
